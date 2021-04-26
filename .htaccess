@@ -1,0 +1,4 @@
+#AuthUserFile "/home3/faizmd/.htpasswds/public_html/nseinvoice/passwd"
+#AuthType Basic
+#AuthName "CARD"
+#require valid-user
